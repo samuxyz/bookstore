@@ -1,0 +1,3 @@
+{
+	"DBHost": "mongodb://admin:admin@ds017582.mlab.com:17582/bookstore"
+}
